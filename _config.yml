@@ -1,3 +1,5 @@
 markdown: rdiscount
 highlighter: pygments
 lsi: false
+
+baseurl: /demo
