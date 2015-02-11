@@ -2,4 +2,4 @@ markdown: rdiscount
 highlighter: pygments
 lsi: false
 
-baseurl: http://ivan-placid.github.io/demo
+baseurl: http://ivan-placid.github.io
