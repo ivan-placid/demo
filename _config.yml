@@ -1,5 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
 lsi: false
+excerpt_separator: ""
 
 baseurl: http://ivan-placid.github.io/demo
