@@ -19,7 +19,7 @@ body {
     background-color: white;
     font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;   
     text-align: center;
-    background-image: {{site.baseurl}}/leo_2.png;
+    background-image: url("{{site.baseurl}}/leo_2.png");
 }
 
 h1, h2, h3, h4, h5, h6 {
